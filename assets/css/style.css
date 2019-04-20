@@ -4,6 +4,7 @@ h1 {
     font-size: 20px;
     font-weight: bold;
     background-color: #4aaaa5;
+    clear: both;
 }
 h2 {
     font-family: 'Georgia', 'Times New Roman', 'Times New Roman', Times, serif;
@@ -26,10 +27,12 @@ li {
     font-family: 'Arial', 'Helvetica Neue', Arial, Helvetica, sans-serif;
     padding-right: 18px;
     display: inline;
+    clear: both;
 }
 #name{
     background-color: #4aaaa5;
     background-size: 50cm;
+    clear: both;
 }
 footer {
     font-family: 'Arial', 'Helvetica Neue', Arial, Helvetica, sans-serif;
